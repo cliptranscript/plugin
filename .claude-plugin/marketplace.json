@@ -1,0 +1,15 @@
+{
+  "name": "clipscript",
+  "owner": {
+    "name": "Clipscript",
+    "url": "https://cliptranscript.app"
+  },
+  "description": "Video transcripts by Clipscript for Claude: transcribe video to text from a link.",
+  "plugins": [
+    {
+      "name": "clipscript",
+      "source": "./",
+      "description": "Video transcript generator: transcribe YouTube, TikTok, Instagram Reels, Facebook and X videos to text and export TXT, SRT, VTT or JSON."
+    }
+  ]
+}

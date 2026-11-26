@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "clipscript": {
+      "type": "http",
+      "url": "https://cliptranscript.app/mcp"
+    }
+  }
+}

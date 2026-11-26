@@ -1,0 +1,20 @@
+{
+  "name": "clipscript",
+  "version": "1.0.0",
+  "description": "Video transcript generator: transcribe YouTube, TikTok, Instagram Reels, Facebook and X videos to text with Clipscript, with timestamps, SRT, VTT and JSON subtitle export, bulk links and channel imports.",
+  "author": {
+    "name": "Clipscript",
+    "url": "https://cliptranscript.app"
+  },
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Video transcripts by Clipscript",
+    "shortDescription": "Video transcript generator: video to text from a link",
+    "longDescription": "Video transcript generator for links: paste a YouTube video or Short, TikTok, Instagram Reel, Facebook or X video and get the video as text with timestamps, ready to summarise, quote or translate. Transcribe up to 10 video links at once, list the latest videos of a channel or profile, reopen saved transcripts and export subtitles and captions as TXT, SRT, VTT or JSON. Every transcript is cached by video, and reopening one from your history is free.",
+    "developerName": "Clipscript",
+    "category": "Productivity",
+    "capabilities": [],
+    "defaultPrompt": "Get the transcript of this video with timestamps and summarise the main points."
+  }
+}

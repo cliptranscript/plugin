@@ -1,0 +1,26 @@
+{
+  "name": "clipscript",
+  "version": "1.0.0",
+  "description": "Video transcript generator for Claude: transcribe YouTube, TikTok, Instagram Reels, Facebook and X videos to text with Clipscript, with timestamps, SRT, VTT and JSON subtitle export, bulk links and channel imports.",
+  "author": {
+    "name": "Clipscript",
+    "url": "https://cliptranscript.app"
+  },
+  "homepage": "https://cliptranscript.app",
+  "repository": "https://github.com/cliptranscript/plugin",
+  "license": "MIT",
+  "keywords": [
+    "mcp",
+    "clipscript",
+    "video-transcript",
+    "transcribe-video",
+    "video-to-text",
+    "transcript-generator",
+    "youtube-transcript",
+    "tiktok-transcript",
+    "reel-transcript",
+    "subtitles"
+  ],
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://cliptranscript.app/privacy/"
+}
